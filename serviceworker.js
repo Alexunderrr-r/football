@@ -1,4 +1,4 @@
-const CACHE_NAME = "ntagil-pwa-v1";
+const CACHE_NAME = "football-pwa";
 const urlsToCache = [
     '/',
     '/template.html',
